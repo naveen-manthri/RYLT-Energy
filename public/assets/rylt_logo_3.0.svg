@@ -1,0 +1,16 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .base { font-family: Helvetica, Arial, sans-serif; font-size: 72px; font-weight: bold; }
+    </style>
+  </defs>
+  <text x="20" y="80" class="base" fill="black">RYL</text>
+  <text x="20" y="80" class="base">
+    <tspan fill="#00B140">RYLT</tspan>
+    <set attributeName="fill" to="black" begin="0s" dur="0.01s" repeatCount="1"></set>
+    <set attributeName="fill" to="#00B140" begin="0s" dur="0.01s" repeatCount="1"></set>
+  </text>
+  <text x="20" y="80" class="base">
+    <tspan fill="black">RYL</tspan><tspan fill="#00B140">T</tspan>
+  </text>
+</svg>
