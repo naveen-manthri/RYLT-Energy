@@ -127,7 +127,7 @@ Testimonial.defaultProps = {
   author3Name: 'Anand Reddy',
   review2:
     'As a professional plumber, I highly recommend RYLT water heater pumps to all my clients. They are reliable and efficient.',
-  author2Name: 'Goutham',
+  author2Name: 'Rohith',
   author4Position: 'Interior Designer',
   author4Name: 'Shiva Keshav',
   author4Src:
@@ -137,7 +137,7 @@ Testimonial.defaultProps = {
     'https://images.unsplash.com/photo-1622565838335-94486df09d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NTE1MDI0NHw&ixlib=rb-4.0.3&q=80&w=1080',
   author3Src:
     'https://images.unsplash.com/photo-1616570993271-d9d56f8933a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NTE1MDI0NXw&ixlib=rb-4.0.3&q=80&w=1080',
-  author2Alt: 'Image of Goutham',
+  author2Alt: 'Image of Rohith',
   author4Alt: 'Image of Shiva Keshav',
   content1: 'See what our customers have to say about our water heater pumps.',
   author3Position: 'Contractor',
